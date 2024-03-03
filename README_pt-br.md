@@ -1,4 +1,4 @@
-# Relatório sobre Análise de Código com SonarQube em Projetos .NET
+# Análise de Código com SonarQube em Projetos .NET
 
 https://developer.okta.com/blog/2021/09/08/sonar-qube-dotnet#analysis-results-in-sonarqube
 
